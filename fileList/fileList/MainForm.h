@@ -164,14 +164,16 @@ namespace filelist {
 #pragma endregion
 
 	public:
+		// Function Prototypes (See Implementation File)
 		System::Void btnListFiles1_Click(System::Object^ sender, System::EventArgs^ e);
 		void AddFileToDataGridView(const std::filesystem::directory_entry& entry, int& id);
 		void filelist::mainForm::PopulateDataGridView(const std::string& path, bool chbxIncludeSubFolders);
-	private: System::Void chbxIncludeSubFolders_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	}
-	private: System::Void btnClearFileList_Click(System::Object^ sender, System::EventArgs^ e) {
-		this->dataGridView1->Rows->Clear();
-	}
-	};
 
+		private: System::Void chbxIncludeSubFolders_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
+		}
+
+		private: System::Void btnClearFileList_Click(System::Object^ sender, System::EventArgs^ e) {
+			this->dataGridView1->Rows->Clear();
+		}
+	};
 };
