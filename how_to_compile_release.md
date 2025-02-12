@@ -1,3 +1,4 @@
+## how to release Windows Program
 1. Project Properties
 	1.1 Configuration Properties | C/C++ | Code Generation | Runtime Library: Multi-threaded DLL (/MD)
 	1.2 Configuration Properties | Linker | System | Subsystem | Windows (/SUBSYSTEM:WINDOWS)
