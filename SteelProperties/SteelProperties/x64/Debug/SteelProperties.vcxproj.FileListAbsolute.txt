@@ -4,3 +4,6 @@ C:\Users\tsciple\source\repos\SteelProperties\SteelProperties\x64\Debug\SteelPro
 C:\dev\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.vcxproj.AssemblyReference.cache
 C:\dev\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.MainForm.resources
 C:\dev\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.vcxproj.GenerateResource.cache
+C:\dev\scipele\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.vcxproj.AssemblyReference.cache
+C:\dev\scipele\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.MainForm.resources
+C:\dev\scipele\cpp_vs\SteelProperties\SteelProperties\x64\Debug\SteelProperties.vcxproj.GenerateResource.cache

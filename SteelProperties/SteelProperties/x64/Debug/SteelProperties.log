@@ -1,7 +1,2 @@
 ﻿  MainForm.cpp
-C:\dev\cpp_vs\SteelProperties\SteelProperties\MainForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  SteelShapes.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generating Code...
-  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  SteelProperties.vcxproj -> C:\dev\cpp_vs\SteelProperties\x64\Debug\SteelProperties.exe
+C:\dev\scipele\cpp_vs\SteelProperties\SteelProperties\MainForm.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
